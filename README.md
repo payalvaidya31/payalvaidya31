@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-## <img src="https://img.icons8.com/retro/32/user.png" width="22"/> PLAYER PROFILE
+## <img src="https://img.icons8.com/retro/32/user.png" width="22"/> PROFILE
 
 **Payal | Aspiring Developer**
 
@@ -22,7 +22,7 @@ Learning programming, exploring technology and building creative projects.
 
 <br/><br/>
 
-## <img src="https://img.icons8.com/retro/32/combo-chart.png" width="22"/> PLAYER STATISTICS
+## <img src="https://img.icons8.com/retro/32/combo-chart.png" width="22"/> STATISTICS
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=241C36&title_color=CBB6F0&icon_color=A88CE0&text_color=E5DAF5" width="48%" />
 
