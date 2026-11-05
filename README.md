@@ -1,35 +1,58 @@
-# ♡ Hey, I'm Payal!
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=E8A6C8&center=true&vCenter=true&width=450&lines=Aspiring+Developer+%E2%9C%A7;Learning+%26+Building+%F0%9F%8C%B7;Turning+Ideas+Into+Code+%E2%99%A1" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=PAYAL.exe&fontSize=65&fontColor=D8C4FF&color=0:171322,50:30264A,100:171322&stroke=BCA5F5&animation=fadeIn&fontAlignY=50" width="100%" />
 
-### ୨୧ About Me
+### `✧ Aspiring Developer · Creative Soul ✧`
 
-- 🌷 Learning programming and exploring technology
-- 💻 Interested in software development
-- ✨ Building projects and learning new things
-- 🎀 Growing one line of code at a time
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2500&pause=900&color=CDBAFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+digital+world+%E2%99%A1;Learning+%7C+Building+%7C+Creating;Turning+ideas+into+code+%E2%9C%A8" />
 
-### ♡ Languages & Tools
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8E78C5&label=PROFILE+VIEWS" />
+</a>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,github,vscode&theme=light" />
-</p>
+</div>
 
-### 🌸 GitHub Statistics
+---
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=16131D&title_color=E8A6C8&icon_color=E8A6C8&text_color=E5DCE8" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=16131D&title_color=E8A6C8&text_color=E5DCE8" />
-</p>
+<div align="center">
 
-### 🎀 Contribution Graph
+## ୨୧ About Me
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=16131D&color=E8A6C8&line=D78CB6&point=FFFFFF&area=true&hide_border=true" width="100%" />
-</p>
+✦ Aspiring Developer  
+✦ Exploring the world of programming  
+✦ Learning new technologies  
+✦ Creating projects and turning ideas into reality  
 
-<p align="center">
-  <i>♡ Dream big. Keep learning. Keep creating. ♡</i>
-</p>
+<br/>
+
+## 💜 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,github,vscode&theme=dark" />
+
+<br/><br/>
+
+## ✧ GitHub Statistics
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=171322&title_color=CDBAFF&icon_color=BCA5F5&text_color=DDD4F2&ring_color=BCA5F5" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=171322&title_color=CDBAFF&text_color=DDD4F2" />
+
+<br/>
+
+## 🌙 Contribution Universe
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=171322&color=CDBAFF&line=BCA5F5&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Coding%20Journey" width="100%" />
+
+<br/>
+
+## 🎀 Currently Working On
+
+`Learning C++` ✦ `Python Projects` ✦ `Programming Fundamentals`
+
+<br/>
+
+### ♡ Dream • Code • Create ♡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171322,50:514078,100:171322&height=120&section=footer" width="100%" />
+
+</div>
